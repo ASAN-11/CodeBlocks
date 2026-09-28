@@ -18,7 +18,7 @@ The project is currently being built and organized, with more patterns, categori
 * Common Programming Patterns
 * Utility Snippets
 * Language-specific patterns
-* 🔹 Beginner → Advanced implementations
+* Beginner → Advanced implementations
 
 ## 🌐 Languages
 
