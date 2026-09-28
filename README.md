@@ -10,9 +10,9 @@ The project is currently being built and organized, with more patterns, categori
 
 ## ✦ Planned Content
 
-* 🔹 Algorithms
-* 🔹 Data Structures
-* 🔹 Arrays & Strings
+* Algorithms
+* Data Structures
+* Arrays & Strings
 * 🔹 Mathematics
 * 🔹 Competitive Programming
 * 🔹 Common Programming Patterns
