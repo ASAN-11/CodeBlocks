@@ -13,11 +13,11 @@ The project is currently being built and organized, with more patterns, categori
 * Algorithms
 * Data Structures
 * Arrays & Strings
-* 🔹 Mathematics
-* 🔹 Competitive Programming
-* 🔹 Common Programming Patterns
-* 🔹 Utility Snippets
-* 🔹 Language-specific patterns
+* Mathematics
+* Competitive Programming
+* Common Programming Patterns
+* Utility Snippets
+* Language-specific patterns
 * 🔹 Beginner → Advanced implementations
 
 ## 🌐 Languages
